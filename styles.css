@@ -96,6 +96,8 @@ footer a:hover {color: #e1e1e1;}
 
 /* HOME ELEMENTS */
 
+#intro {width: 100%; padding: 3em 0; position: relative; background: url(images/page-bg.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+
 header {width: 90%; padding-top: 20%;}
 #logo {width: 25%;padding-bottom: 1em;}
 header h1 {font-size: 1.45em;}
